@@ -16,3 +16,7 @@
   <img align='center' alt='sqlServer' src='https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white' />
   <img align='center' alt='java' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white' />
 </div>
+
+</br>
+
+Desenvolvedor com extrema vontade de aprimorar minhas habilidades de dev, em busca de resultados impactantes e de alto valor, apaixonado por tenologia e programação!
