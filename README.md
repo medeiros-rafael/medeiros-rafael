@@ -1,3 +1,12 @@
+<div>
+  <a href='https://www.instagram.com/_medeirosrafael'>
+    <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' target='_blank'/>
+  </a>
+  <a href='https://www.linkedin.com/in/rafael-da-silva-medeiros'>
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'/>
+  </a>
+</div>
+
 ### Olá, me chamo Rafael! 🫡 
 
 Atualmente sou desenvolvedor web, trabalhando especificamente com React.js, Microsoft SQL Server e ASP.NET Core, tenho extrema vontade de aprimorar minhas habilidades de dev, em busca de resultados impactantes e de alto valor, apaixonado por tenologia e programação!
@@ -15,16 +24,23 @@ Fique a vontade para desbravar meus repositórios e também caso necessário ent
 </div>
 
 <div style='display: inline_block'><br/>
-  <img align='center' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
-  <img align='center' alt='javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' />
-  <img align='center' alt='c#' src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' />
-  <img align='center' alt='sqlServer' src='https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white' />
-  <img align='center' alt='java' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white' />
+  <a href='https://legacy.reactjs.org'>
+    <img align='center' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
+  </a>
+  <a href='https://javascript.info'>
+    <img align='center' alt='javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' />
+  </a>
+  <a href='https://learn.microsoft.com/en-us/dotnet/csharp'>
+    <img align='center' alt='c#' src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' />
+  </a>
+  <a href='https://learn.microsoft.com/pt-br/sql/sql-server'>
+    <img align='center' alt='sqlServer' src='https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white' />
+  </a>
+  <a href='https://docs.oracle.com/en/java'>
+    <img align='center' alt='java' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white' />
+  </a>
 </div>
 
 ##
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_medeirosrafael)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-da-silva-medeiros)
 
 ![Snake animation](https://github.com/medeiros-rafael/medeiros-rafael/blob/output/github-contribution-grid-snake.svg)
