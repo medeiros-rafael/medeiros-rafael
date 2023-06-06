@@ -1,8 +1,8 @@
 ## Olá, me chamo Rafael! 🫡 
 
-Atualmente sou desenvolvedor web, trabalhando especificamente com React.js, Microsoft SQL Server e ASP.NET Core, tenho extrema vontade de aprimorar minhas habilidades de dev, em busca de resultados impactantes e de alto valor, apaixonado por tenologia e programação!
+Atualmente sou desenvolvedor web, trabalhando em específico com React.js, Microsoft SQL Server e ASP.NET Core, tenho extrema vontade de aprimorar minhas habilidades de dev, em busca de resultados impactantes e de alto valor, apaixonado por tenologia e programação!
 
-Neste GitHub, poderá econtrar tanto projetos pessoais quanto estudos com linguagens novas, franeworks e serviços.
+Neste GitHub, poderá econtrar tanto projetos pessoais quanto estudos com linguagens novas, frameworks e serviços web.
 
 Fique a vontade para desbravar meus repositórios e também caso necessário entrar em contato comigo.
 
