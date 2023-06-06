@@ -7,7 +7,7 @@
   </a>
 </div>
 
-### Olá, me chamo Rafael! 🫡 
+## Olá, me chamo Rafael! 🫡 
 
 Atualmente sou desenvolvedor web, trabalhando especificamente com React.js, Microsoft SQL Server e ASP.NET Core, tenho extrema vontade de aprimorar minhas habilidades de dev, em busca de resultados impactantes e de alto valor, apaixonado por tenologia e programação!
 
