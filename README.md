@@ -23,6 +23,8 @@ Fique a vontade para desbravar meus repositórios e também caso necessário ent
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeiros-rafael&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+### Conhecimento nas seguintes linguagens:
+  
 <div style='display: inline_block'><br/>
   <a href='https://legacy.reactjs.org'>
     <img align='center' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
@@ -38,6 +40,15 @@ Fique a vontade para desbravar meus repositórios e também caso necessário ent
   </a>
   <a href='https://docs.oracle.com/en/java'>
     <img align='center' alt='java' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white' />
+  </a>
+  <a href='https://www.typescriptlang.org/docs'>
+    <img align='center' alt='typeScript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
+  </a>
+  <a href='https://learn.microsoft.com/en-us/cpp'>
+    <img align='center' alt='typeScript' src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
+  </a>
+  <a href='https://reactnative.dev'>
+    <img align='center' alt='typeScript' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
   </a>
 </div>
 
