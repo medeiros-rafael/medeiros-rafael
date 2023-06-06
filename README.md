@@ -26,7 +26,7 @@ Fique a vontade para desbravar meus repositórios e também caso necessário ent
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeiros-rafael&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### Conhecimento nas seguintes linguagens:
+### Conhecimento nas seguintes linguagens/frameworks:
   
 <div style='display: inline_block'><br/>
   <a href='https://legacy.reactjs.org'>
