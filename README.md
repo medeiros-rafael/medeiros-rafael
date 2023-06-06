@@ -1,3 +1,14 @@
+## Olá, me chamo Rafael! 🫡 
+
+Atualmente sou desenvolvedor web, trabalhando especificamente com React.js, Microsoft SQL Server e ASP.NET Core, tenho extrema vontade de aprimorar minhas habilidades de dev, em busca de resultados impactantes e de alto valor, apaixonado por tenologia e programação!
+
+Neste GitHub, poderá econtrar tanto projetos pessoais quanto estudos com linguagens novas, franeworks e serviços.
+
+Fique a vontade para desbravar meus repositórios e também caso necessário entrar em contato comigo.
+
+
+</br>
+
 <div>
   <a href='https://www.instagram.com/_medeirosrafael'>
     <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' target='_blank'/>
@@ -7,15 +18,7 @@
   </a>
 </div>
 
-## Olá, me chamo Rafael! 🫡 
-
-Atualmente sou desenvolvedor web, trabalhando especificamente com React.js, Microsoft SQL Server e ASP.NET Core, tenho extrema vontade de aprimorar minhas habilidades de dev, em busca de resultados impactantes e de alto valor, apaixonado por tenologia e programação!
-
-Neste GitHub, poderá econtrar tanto projetos pessoais quanto estudos com linguagens novas, franeworks e serviços.
-
-Fique a vontade para desbravar meus repositórios e também caso necessário entrar em contato comigo.
-
-</br>
+##
 
 <div>
   <a href="https://github.com/medeiros-rafael">
