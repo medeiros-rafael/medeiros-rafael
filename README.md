@@ -47,6 +47,8 @@ Fique a vontade para desbravar meus repositórios e também caso necessário ent
   <a href='https://learn.microsoft.com/en-us/cpp'>
     <img align='center' alt='typeScript' src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
   </a>
+</div>
+<div style='display: inline_block'>
   <a href='https://reactnative.dev'>
     <img align='center' alt='typeScript' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
   </a>
