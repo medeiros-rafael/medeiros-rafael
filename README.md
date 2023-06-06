@@ -35,9 +35,6 @@ Fique a vontade para desbravar meus repositórios e também caso necessário ent
   <a href='https://learn.microsoft.com/en-us/dotnet/csharp'>
     <img align='center' alt='c#' src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' />
   </a>
-  <a href='https://learn.microsoft.com/pt-br/sql/sql-server'>
-    <img align='center' alt='sqlServer' src='https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white' />
-  </a>
   <a href='https://docs.oracle.com/en/java'>
     <img align='center' alt='java' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white' />
   </a>
@@ -47,10 +44,12 @@ Fique a vontade para desbravar meus repositórios e também caso necessário ent
   <a href='https://learn.microsoft.com/en-us/cpp'>
     <img align='center' alt='typeScript' src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
   </a>
-</div>
-<div style='display: inline_block'>
-  <a href='https://reactnative.dev'>
+    <a href='https://reactnative.dev'>
     <img align='center' alt='typeScript' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+  </a>
+    </a>
+    <a href='https://getbootstrap.com/'>
+    <img align='center' alt='typeScript' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
   </a>
 </div>
 
