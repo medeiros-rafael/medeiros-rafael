@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+my+name+is+Rafael!;Studying+Computer+Science.)](https://git.io/typing-svg)
+
 I am currently a Web Developer specializing in React.js and ASP.NET Core. I have a strong drive to sharpen my development skills in pursuit of high-impact, high-value results. I’m truly passionate about technology and programming!
 
 In this GitHub, you’ll find both personal projects and my studies involving new languages, frameworks, and web services.
