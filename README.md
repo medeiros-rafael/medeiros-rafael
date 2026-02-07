@@ -20,12 +20,6 @@ Feel free to explore my repositories and get in touch if you'd like to connect.
 
 </br>
 
-<div>
-  <a href="https://github.com/medeiros-rafael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medeiros-rafael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeiros-rafael&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ### Main Skills:
 
 <div style='display: inline_block'>
