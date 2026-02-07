@@ -1,5 +1,4 @@
-[![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+me+chamo+Rafael!+🫡;Cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o!](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+my+name+is+Rafael!+%F0%9F%AB%A1;Studying+Computer+Science!))](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+my+name+is+Rafael!;Studying+Computer+Science.)](https://git.io/typing-svg)
 I am currently a Web Developer specializing in React.js and ASP.NET Core. I have a strong drive to sharpen my development skills in pursuit of high-impact, high-value results. I’m truly passionate about technology and programming!
 
 In this GitHub, you’ll find both personal projects and my studies involving new languages, frameworks, and web services.
