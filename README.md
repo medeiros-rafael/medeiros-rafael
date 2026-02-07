@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+me+chamo+Rafael!+🫡;Cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o!)](https://git.io/typing-svg)
 
-Atualmente sou desenvolvedor web, trabalhando em específico com React.js, Microsoft SQL Server e ASP.NET Core, tenho extrema vontade de aprimorar minhas habilidades de dev, em busca de resultados impactantes e de alto valor, apaixonado por tenologia e programação!
+I am currently a Web Developer specializing in React.js and ASP.NET Core. I have a strong drive to sharpen my development skills in pursuit of high-impact, high-value results. I’m truly passionate about technology and programming!
 
-Neste GitHub, poderá encontrar tanto projetos pessoais quanto estudos com linguagens novas, frameworks e serviços web.
+In this GitHub, you’ll find both personal projects and my studies involving new languages, frameworks, and web services.
 
-Fique a vontade para desbravar meus repositórios e também caso necessário entrar em contato comigo.
+Feel free to explore my repositories and get in touch if you'd like to connect.
 
 
 </br>
