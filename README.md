@@ -26,7 +26,7 @@ Feel free to explore my repositories and get in touch if you'd like to connect.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeiros-rafael&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### Principais habilidades:
+### Main Skills:
 
 <div style='display: inline_block'>
   <a href='https://legacy.reactjs.org'>
@@ -47,7 +47,7 @@ Feel free to explore my repositories and get in touch if you'd like to connect.
   </a>
 </div>
   
-### Estudando no momento:
+### Studying at the moment:
 
 <div style='display: inline_block'>
   <a href='https://docs.oracle.com/en/java'>
